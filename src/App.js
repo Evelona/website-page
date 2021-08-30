@@ -1,7 +1,6 @@
 import {createTheme, ThemeProvider, makeStyles} from '@material-ui/core/styles'
 import {Typography} from '@material-ui/core'
 
-import './App.css';
 import Navbar from './components/Navbar';
 import Grid from './components/Grid';
 
